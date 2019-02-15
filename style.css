@@ -1,0 +1,30 @@
+.hanzo
+{
+width: 390px; height: 350px;
+background: url('sprite.png') -0px 0px;
+}
+
+.rein
+{
+width: 600px; height: 600px;
+background: url('sprite.png') -390px 0px;
+}
+
+.zen
+{
+width: 600px; height: 600px;
+background: url('sprite.png') -990px 0px;
+}
+
+.ana
+{
+width: 600px; height: 600px;
+background: url('sprite.png') -1590px 0px;
+}
+
+.Tracer
+{
+width: 512px; height: 512px;
+background: url('sprite.png') -2190px 0px;
+}
+
